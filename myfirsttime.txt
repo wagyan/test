@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main (void){
 	printf(“Now loading!”);
-	retrurn 0;
+	printf(“Completed”);
+	return 0;
 }
